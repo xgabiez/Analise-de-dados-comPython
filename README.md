@@ -17,3 +17,6 @@ Essas informações permitem que a empresa compreenda melhor os motivos de cance
 - Python
 - Pandas
 - Plotly
+
+⚠️ **Atenção:** Este projeto está em formato de **Jupyter Notebook (.ipynb)**.  
+> Para executar, é necessário ter o **Jupyter Notebook** ou um editor que suporte notebooks, como o **VS Code**.
